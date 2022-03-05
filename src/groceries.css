@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    overflow-y: auto;
+}
+.item svg{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    color: royalblue;
+}
+.item svg:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.grocery{
+    margin: auto;
+    height: 500px;
+    width: 680px;
+}
+li{
+    list-style-type: none;
+    text-align: left;
+    font-size: large;
+
+}
+label{
+    color: blue;
+    text-align: left;
+}
+.item{
+    display: flex;
+    padding: 3px 0px 3px 0px;
+    margin: 3px 0;
+    background-color: aliceblue;
+    justify-content: space-between;
+    text-align: left;
+}
+input[type="checkbox"]{
+    height: 30px;
+    width: 30px;
+    margin-left: 40px;
+
+}
+form{
+    background: rgb(226, 222, 222);
+    height: 40px;
+    color: black;
+    width: 100%;
+    z-index: 3;
+}
+input{
+    height: 40px;
+    width: 450px;
+    margin-left: 50px;
+}
+.App{
+    width: 700px;
+    margin: auto;
+}
+button{
+    height: 40px;
+    width: 40px;
+    background-color: aquamarine;
+    cursor: pointer;
+}
+button:hover{
+    background: #000;
+    color: aqua;
+}
+#new{
+    color: blueviolet;
+    padding-left: 40px;
+}

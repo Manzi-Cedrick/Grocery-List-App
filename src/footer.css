@@ -1,0 +1,12 @@
+.footer{
+    background-color: rgb(68, 113, 163);
+    width: 100%;
+    text-align: center;
+    color: white;
+    height: 50px;
+    transform: translateY(80px);
+}
+.footer p{
+    text-align: center;
+    color: wheat;
+}
