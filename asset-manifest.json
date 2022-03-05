@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Manzi-Cedrick/static/css/main.cba8a7be.css",
+    "main.js": "/Manzi-Cedrick/static/js/main.f5fde647.js",
+    "static/js/787.bc7d429a.chunk.js": "/Manzi-Cedrick/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Manzi-Cedrick/index.html",
+    "main.cba8a7be.css.map": "/Manzi-Cedrick/static/css/main.cba8a7be.css.map",
+    "main.f5fde647.js.map": "/Manzi-Cedrick/static/js/main.f5fde647.js.map",
+    "787.bc7d429a.chunk.js.map": "/Manzi-Cedrick/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba8a7be.css",
+    "static/js/main.f5fde647.js"
+  ]
+}
